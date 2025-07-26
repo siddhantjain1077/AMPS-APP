@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔌 BSES AMPS Mobile App (React Native)
 
 ---
