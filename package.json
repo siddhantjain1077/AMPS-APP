@@ -60,16 +60,12 @@
   },
   "description": "This is a **React Native application** built for field engineers and AMPS users at BSES, enabling them to:",
   "main": "index.js",
-  "repository": {
+   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siddhantjain1077/BSES-AMPS-APP-.git"
+    "url": "git+https://github.com/siddhantjain1077/bses-app.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/siddhantjain1077/BSES-AMPS-APP-/issues"
+    "url": "https://github.com/siddhantjain1077/bses-app/issues"
   },
-  "homepage": "https://github.com/siddhantjain1077/BSES-AMPS-APP-#readme"
+  "homepage": "https://github.com/siddhantjain1077/bses-app#readme"
 }
