@@ -57,7 +57,7 @@ const HomeScreen = ({ navigation, route }) => {
     navigation.setOptions({
       headerTitle: () => (
         <Text style={{ fontSize: 18, fontWeight: 'bold', color: colors.text }}>
-          👋 Welcome, AMPS User
+          Welcome, AMPS User
         </Text>
       ),
       headerLeft: () => (

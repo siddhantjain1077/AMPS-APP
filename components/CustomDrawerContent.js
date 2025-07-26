@@ -39,7 +39,7 @@ export function CustomDrawerContent(props) {
           style={styles.logo}
         />
         <Text style={[styles.userText, { color: colors.text }]}>
-          👋 Welcome, AMPS User
+          Welcome, AMPS User
         </Text>
       </View>
 
