@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔌 BSES AMPS Mobile App (React Native)
 
 ---
@@ -132,3 +133,6 @@ http://10.0.2.2:3001/api/tf-images
 - Clean architecture using `components/`, `services/`, `utils/`, and `screens/`
 - Modal handling and state management
 
+=======
+# bses-app
+>>>>>>> 29b16fdb119eeefec02961c702fe2f53c7cb37c8
