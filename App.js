@@ -1,7 +1,7 @@
 // React and React Native core imports
 import React, { useEffect, useRef } from 'react';
 import { Alert, AppState, LogBox } from 'react-native';
-
+//hi this is a comment
 // AsyncStorage to store and retrieve tokens
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
