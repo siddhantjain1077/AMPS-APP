@@ -118,7 +118,6 @@ http://10.0.2.2:3001/api/tf-images
 
 ## 📱 Screenshots
 
-| ![](./screenshots/splash.png) | ![](./screenshots/login.png) | ![](./screenshots/details.png) |
 <img width="190" height="720" alt="image" src="https://github.com/user-attachments/assets/02c0d02d-de80-4ab2-b5c4-e5b814c345ce" />
 <img width="190" height="720" alt="image" src="https://github.com/user-attachments/assets/6f25518c-8f11-4c09-ba1c-0261ff17f3b1" />
 <img width="190" height="720" alt="image" src="https://github.com/user-attachments/assets/76f1105f-a064-4377-a03a-d5044e2fc1f2" />
