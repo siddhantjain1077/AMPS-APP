@@ -93,11 +93,11 @@ npx react-native run-ios
 
 For serving TF images via a local Node.js server:
 
-### 🔧 `server.kjs`
+### 🔧 `server.js`
 
 ```bash
 cd server
-node server.kjs
+node server.js
 ```
 
 Make sure to place your image files in the `/public/uploads/` folder and access them via:
