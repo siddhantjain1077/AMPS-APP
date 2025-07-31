@@ -539,6 +539,15 @@ const DetailScreen = () => {
     );
   };
 
+  const maskMobileNumber = (number) => {
+  if (!number || number.length < 4) return number; // fallback
+  const visibleStart = number.slice(0, 2);
+  const visibleEnd = number.slice(-2);
+  const hidden = '*'.repeat(number.length - 4);
+  return `${visibleStart}${hidden}${visibleEnd}`;
+};
+
+
   const handleTFRevisitSubmit = async ({ engineer, comment }) => {
     try {
       const payload = {
@@ -642,7 +651,7 @@ const DetailScreen = () => {
         <KeyValue label="Order No." value={data.orderNo} />
         <KeyValue label="Name" value={data.name} />
         <KeyValue label="Father's Name" value={data.fatherName} />
-        <KeyValue label="Mobile No." value={data.mobileNo} />
+        {/* <KeyValue label="Mobile No." value={maskMobileNumber(data.mobileNo)} /> */}
         <KeyValue label="Address" value={data.address} />
         <KeyValue label="Order Date" value={data.orderDate} />
         <KeyValue label="Division" value={data.division} />
