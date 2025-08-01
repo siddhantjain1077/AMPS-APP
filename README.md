@@ -102,11 +102,9 @@ node server.js
 
 Make sure to place your image files in the `/public/uploads/` folder and access them via:
 
-```
-http://10.0.2.2:3001/api/tf-images
-```
-
 ---
+
+
 
 ## 🔐 Token Expiry Logic
 
