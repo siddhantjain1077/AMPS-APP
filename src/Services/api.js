@@ -2,7 +2,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Base API URL for all endpoints
-const BASE_URL = 'https://test';
 
 // ✅ All Endpoint URLs
 export const LOGIN_URL = `${BASE_URL}/api/Auth/login`;                               // Login endpoint
